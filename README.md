@@ -335,8 +335,8 @@ If you found this project helpful or interesting, please consider giving it a st
 ### 🔗 Quick Links
 
 **[🌐 Live Demo](https://metalbandwebsite.vercel.app)** • 
-**[📝 Report Bug](https://github.com/onurceyhan/metal-band-website/issues)** • 
-**[✨ Request Feature](https://github.com/onurceyhan/metal-band-website/issues)**
+**[📝 Report Bug](https://github.com/onurceyhan/metalbandwebsite/issues)** • 
+**[✨ Request Feature](https://github.com/onurceyhan/metalbandwebsite/issues)**
 
 ---
 
