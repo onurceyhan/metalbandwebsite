@@ -292,7 +292,7 @@ https://metalbandwebsite.vercel.app
 ![Desktop View](images/desktop.png)
 
 ### Mobile View
-![Mobile View](images/mobile.png)
+<img src="images/mobile.png" width="300" alt="Mobile View">
 
 </div>
 
