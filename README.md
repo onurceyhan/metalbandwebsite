@@ -289,10 +289,10 @@ https://metalbandwebsite.vercel.app
 ```
 
 ### Desktop View
-![Desktop View](/desktop.png)
+![Desktop View](images/desktop.png)
 
 ### Mobile View
-![Mobile View](/mobile.png)
+![Mobile View](images/mobile.png)
 
 </div>
 
